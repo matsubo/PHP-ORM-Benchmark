@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule
+END
+Match.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/Match.php
+END
+NotMatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/NotMatch.php
+END
+ValidValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/ValidValues.php
+END
+MinValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/MinValue.php
+END
+MaxValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/MaxValue.php
+END
+MinLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/MinLength.php
+END
+MaxLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/Rule/MaxLength.php
+END

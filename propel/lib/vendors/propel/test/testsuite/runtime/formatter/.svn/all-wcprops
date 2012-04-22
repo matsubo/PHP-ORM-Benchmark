@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter
+END
+PropelStatementFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelStatementFormatterTest.php
+END
+PropelOnDemandFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelOnDemandFormatterTest.php
+END
+PropelObjectFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelObjectFormatterTest.php
+END
+PropelArrayFormatterWithTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelArrayFormatterWithTest.php
+END
+PropelArrayFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelArrayFormatterTest.php
+END
+PropelObjectFormatterInheritanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelObjectFormatterInheritanceTest.php
+END
+PropelOnDemandFormatterWithTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelOnDemandFormatterWithTest.php
+END
+PropelObjectFormatterWithTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/formatter/PropelObjectFormatterWithTest.php
+END

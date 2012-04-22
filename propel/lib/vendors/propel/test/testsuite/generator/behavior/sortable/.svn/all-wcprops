@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable
+END
+SortableBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorTest.php
+END
+SortableBehaviorPeerBuilderModifierTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorPeerBuilderModifierTest.php
+END
+SortableBehaviorQueryBuilderModifierWithScopeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorQueryBuilderModifierWithScopeTest.php
+END
+SortableBehaviorObjectBuilderModifierWithScopeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorObjectBuilderModifierWithScopeTest.php
+END
+SortableBehaviorPeerBuilderModifierWithScopeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorPeerBuilderModifierWithScopeTest.php
+END
+SortableBehaviorQueryBuilderModifierTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorQueryBuilderModifierTest.php
+END
+SortableBehaviorObjectBuilderModifierTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/sortable/SortableBehaviorObjectBuilderModifierTest.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1812/tags/1.5.2/docs/cookbook
+END
+Runtime-Introspection.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Runtime-Introspection.txt
+END
+Master-Slave.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Master-Slave.txt
+END
+Customizing-Build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Customizing-Build.txt
+END
+LOB-Columns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/LOB-Columns.txt
+END
+Multi-Component.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Multi-Component.txt
+END
+Nested-Set.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Nested-Set.txt
+END
+Existing-Database.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Existing-Database.txt
+END
+Add-Custom-SQL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Add-Custom-SQL.txt
+END
+Copying-Objects.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Copying-Objects.txt
+END
+Namespaces.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Namespaces.txt
+END
+Writing-Behavior.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1812/tags/1.5.2/docs/cookbook/Writing-Behavior.txt
+END

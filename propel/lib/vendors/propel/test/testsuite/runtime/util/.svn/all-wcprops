@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util
+END
+PropelConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util/PropelConfigurationTest.php
+END
+PropelDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util/PropelDateTimeTest.php
+END
+PropelPagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util/PropelPagerTest.php
+END
+PropelModelPagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util/PropelModelPagerTest.php
+END
+BasePeerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util/BasePeerTest.php
+END
+BasePeerExceptionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/util/BasePeerExceptionsTest.php
+END

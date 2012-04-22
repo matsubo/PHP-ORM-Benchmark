@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/7688/tags/1.2.3/lib/Doctrine/Table
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7688/tags/1.2.3/lib/Doctrine/Table/Exception.php
+END
+Repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7688/tags/1.2.3/lib/Doctrine/Table/Repository.php
+END

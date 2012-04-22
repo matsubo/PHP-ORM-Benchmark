@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/collection
+END
+PropelArrayCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/collection/PropelArrayCollectionTest.php
+END
+PropelCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/collection/PropelCollectionTest.php
+END
+PropelOnDemandIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/collection/PropelOnDemandIteratorTest.php
+END
+PropelOnDemandCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/collection/PropelOnDemandCollectionTest.php
+END
+PropelObjectCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/collection/PropelObjectCollectionTest.php
+END

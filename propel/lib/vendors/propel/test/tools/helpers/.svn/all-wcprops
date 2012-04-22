@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers
+END
+BaseTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/BaseTestCase.php
+END

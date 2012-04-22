@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/1812/tags/1.5.2/test
+END
+tree-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1812/tags/1.5.2/test/tree-test.php
+END
+speed.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1812/tags/1.5.2/test/speed.php
+END
+bookstore-packaged-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1812/tags/1.5.2/test/bookstore-packaged-test.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1812/tags/1.5.2/test/README
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1812/tags/1.5.2/test/test.xml
+END

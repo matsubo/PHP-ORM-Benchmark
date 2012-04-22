@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query
+END
+ModelWithTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/ModelWithTest.php
+END
+CriteriaFluidConditionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/CriteriaFluidConditionTest.php
+END
+CriteriaCombineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/CriteriaCombineTest.php
+END
+JoinTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/JoinTest.php
+END
+ModelJoinTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/ModelJoinTest.php
+END
+CriteriaMergeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/CriteriaMergeTest.php
+END
+CriteriaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/CriteriaTest.php
+END
+ModelCriteriaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/ModelCriteriaTest.php
+END
+ModelCriteriaHooksTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/ModelCriteriaHooksTest.php
+END
+PropelQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/query/PropelQueryTest.php
+END

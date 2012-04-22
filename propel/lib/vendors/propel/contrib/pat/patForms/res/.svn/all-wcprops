@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/res
+END
+form.dynamic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/res/form.dynamic.tpl
+END
+mysql-dump.bookstore.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1812/tags/1.5.2/contrib/pat/patForms/res/mysql-dump.bookstore.sql
+END

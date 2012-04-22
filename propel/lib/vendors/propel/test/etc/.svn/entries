@@ -1,0 +1,40 @@
+9
+
+dir
+2050
+http://svn.propelorm.org/tags/1.5.2/test/etc
+http://svn.propelorm.org
+
+
+
+2009-12-03T21:06:36.231069Z
+1347
+francois
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4126deef-30f4-0310-a2a2-883dd235dc3b
+
+schema
+dir
+
+conf
+dir
+
+xsl
+dir
+
+lob
+dir
+

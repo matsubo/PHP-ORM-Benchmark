@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/model
+END
+ColumnTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/model/ColumnTest.php
+END
+BehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/model/BehaviorTest.php
+END
+PhpNameGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/model/PhpNameGeneratorTest.php
+END
+TableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/model/TableTest.php
+END
+NameFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/model/NameFactoryTest.php
+END

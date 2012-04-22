@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/util
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/util/template.php
+END
+PropelTemplateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/util/PropelTemplateTest.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/concrete_inheritance
+END
+ConcreteInheritanceBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/concrete_inheritance/ConcreteInheritanceBehaviorTest.php
+END
+ConcreteInheritanceParentBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/concrete_inheritance/ConcreteInheritanceParentBehaviorTest.php
+END

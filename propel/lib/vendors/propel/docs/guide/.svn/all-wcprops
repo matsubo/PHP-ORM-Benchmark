@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1812/tags/1.5.2/docs/guide
+END
+04-Relationships.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1812/tags/1.5.2/docs/guide/04-Relationships.txt
+END
+07-Behaviors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1812/tags/1.5.2/docs/guide/07-Behaviors.txt
+END
+05-Validators.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1812/tags/1.5.2/docs/guide/05-Validators.txt
+END
+06-Transactions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1812/tags/1.5.2/docs/guide/06-Transactions.txt
+END
+08-Logging.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1812/tags/1.5.2/docs/guide/08-Logging.txt
+END
+03-Basic-CRUD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1812/tags/1.5.2/docs/guide/03-Basic-CRUD.txt
+END
+02-BuildTime.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1812/tags/1.5.2/docs/guide/02-BuildTime.txt
+END
+01-Installation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1812/tags/1.5.2/docs/guide/01-Installation.txt
+END
+09-Inheritance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1812/tags/1.5.2/docs/guide/09-Inheritance.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior
+END
+PeerBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/PeerBehaviorTest.php
+END
+AutoAddPkBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/AutoAddPkBehaviorTest.php
+END
+SoftDeleteBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/SoftDeleteBehaviorTest.php
+END
+ObjectBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/ObjectBehaviorTest.php
+END
+TableBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/TableBehaviorTest.php
+END
+TimestampableBehaviorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/behavior/TimestampableBehaviorTest.php
+END

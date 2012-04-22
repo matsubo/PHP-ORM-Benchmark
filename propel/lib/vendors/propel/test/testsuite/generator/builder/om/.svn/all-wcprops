@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om
+END
+GeneratedNestedSetPeerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedNestedSetPeerTest.php
+END
+PHP5TableMapBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/PHP5TableMapBuilderTest.php
+END
+GeneratedPeerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedPeerTest.php
+END
+QueryBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/QueryBuilderTest.php
+END
+GeneratedNestedSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedNestedSetTest.php
+END
+GeneratedPeerDoSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedPeerDoSelectTest.php
+END
+OMBuilderNamespaceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/OMBuilderNamespaceTest.php
+END
+GeneratedPeerDoDeleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedPeerDoDeleteTest.php
+END
+GeneratedObjectLobTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedObjectLobTest.php
+END
+OMBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/OMBuilderTest.php
+END
+GeneratedNestedSetObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedNestedSetObjectTest.php
+END
+GeneratedObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedObjectTest.php
+END
+QueryBuilderInheritanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/QueryBuilderInheritanceTest.php
+END
+GeneratedObjectRelTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/builder/om/GeneratedObjectRelTest.php
+END

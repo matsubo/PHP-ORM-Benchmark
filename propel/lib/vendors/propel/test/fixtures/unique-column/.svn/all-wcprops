@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1812/tags/1.5.2/test/fixtures/unique-column
+END
+table-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1812/tags/1.5.2/test/fixtures/unique-column/table-schema.xml
+END
+column-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1812/tags/1.5.2/test/fixtures/unique-column/column-schema.xml
+END

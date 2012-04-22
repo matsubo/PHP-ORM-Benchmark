@@ -1,0 +1,34 @@
+9
+
+dir
+2050
+http://svn.propelorm.org/tags/1.5.2/test/tools
+http://svn.propelorm.org
+
+
+
+2010-06-14T12:48:59.624191Z
+1798
+francois
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4126deef-30f4-0310-a2a2-883dd235dc3b
+
+helpers
+dir
+
+phing
+dir
+

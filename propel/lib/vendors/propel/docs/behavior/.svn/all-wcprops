@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1812/tags/1.5.2/docs/behavior
+END
+aggregate_column.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1812/tags/1.5.2/docs/behavior/aggregate_column.txt
+END
+alternative_coding_standards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1812/tags/1.5.2/docs/behavior/alternative_coding_standards.txt
+END
+sluggable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1812/tags/1.5.2/docs/behavior/sluggable.txt
+END
+timestampable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1812/tags/1.5.2/docs/behavior/timestampable.txt
+END
+query_cache.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1812/tags/1.5.2/docs/behavior/query_cache.txt
+END
+auto_add_pk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1812/tags/1.5.2/docs/behavior/auto_add_pk.txt
+END
+sortable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1812/tags/1.5.2/docs/behavior/sortable.txt
+END
+nested_set.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1812/tags/1.5.2/docs/behavior/nested_set.txt
+END
+soft_delete.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1812/tags/1.5.2/docs/behavior/soft_delete.txt
+END

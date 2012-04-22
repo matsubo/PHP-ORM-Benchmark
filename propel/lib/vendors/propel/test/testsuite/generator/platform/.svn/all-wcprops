@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/platform
+END
+DefaultPlatformTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/platform/DefaultPlatformTest.php
+END
+PlatformTestBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/platform/PlatformTestBase.php
+END
+SqlitePlatformTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1812/tags/1.5.2/test/testsuite/generator/platform/SqlitePlatformTest.php
+END

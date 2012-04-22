@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/7688/tags/1.2.3/lib/Doctrine/RawSql
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7688/tags/1.2.3/lib/Doctrine/RawSql/Exception.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1812/tags/1.5.2/test/testsuite/misc
+END
+Ticket520Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1812/tags/1.5.2/test/testsuite/misc/Ticket520Test.php
+END
+CharacterEncodingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1812/tags/1.5.2/test/testsuite/misc/CharacterEncodingTest.php
+END
+FieldnameRelatedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1812/tags/1.5.2/test/testsuite/misc/FieldnameRelatedTest.php
+END
+BookstoreTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1812/tags/1.5.2/test/testsuite/misc/BookstoreTest.php
+END

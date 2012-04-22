@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/bookstore/behavior
+END
+DonothingBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/bookstore/behavior/DonothingBehavior.php
+END
+Testallhooksbehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/bookstore/behavior/Testallhooksbehavior.php
+END
+BookstoreSortableTestBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/bookstore/behavior/BookstoreSortableTestBase.php
+END
+BookstoreNestedSetTestBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/bookstore/behavior/BookstoreNestedSetTestBase.php
+END
+TestAuthor.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1812/tags/1.5.2/test/tools/helpers/bookstore/behavior/TestAuthor.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1812/tags/1.5.2/test/etc/xsl
+END
+log.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1812/tags/1.5.2/test/etc/xsl/log.xsl
+END
+phpunit2-noframes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1812/tags/1.5.2/test/etc/xsl/phpunit2-noframes.xsl
+END
+coverage-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1812/tags/1.5.2/test/etc/xsl/coverage-frames.xsl
+END
+str.replace.function.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1812/tags/1.5.2/test/etc/xsl/str.replace.function.xsl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map
+END
+GeneratedRelationMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map/GeneratedRelationMapTest.php
+END
+ColumnMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map/ColumnMapTest.php
+END
+RelationMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map/RelationMapTest.php
+END
+DatabaseMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map/DatabaseMapTest.php
+END
+TableMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map/TableMapTest.php
+END
+RelatedMapSymmetricalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1812/tags/1.5.2/test/testsuite/runtime/map/RelatedMapSymmetricalTest.php
+END
